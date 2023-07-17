@@ -18,5 +18,3 @@ jobs:
 
       - name: Run Java tests
         run: ./gradle test
-      - name: Run Java application
-        run: ./gradle test
