@@ -13,8 +13,5 @@ jobs:
           distribution: 'zulu'
           java-version: '17'
 
-      - name: Build Java application
-        run: javac Math.java
-
       - name: Run Java tests
         run: ./gradle test
