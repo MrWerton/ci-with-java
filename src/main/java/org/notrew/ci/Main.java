@@ -2,6 +2,9 @@ package org.notrew.ci;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        final var sum = Math.sum(10, 30);
+
+        System.out.println(sum);
     }
 }
