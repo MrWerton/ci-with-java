@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.notrew.cicd.Math;
+import org.notrew.ci.Math;
 
 public class MathTest {
 

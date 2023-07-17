@@ -1,4 +1,4 @@
-package org.notrew.cicd;
+package org.notrew.ci;
 
 public class Main {
     public static void main(String[] args) {

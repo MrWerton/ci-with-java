@@ -1,4 +1,4 @@
-package org.notrew.cicd;
+package org.notrew.ci;
 
 public class Math {
     public static int sum(int a, int b) {
